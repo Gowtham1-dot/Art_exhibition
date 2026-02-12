@@ -1,0 +1,13 @@
+body {
+  background: #0f0f0f;
+  color: #fff;
+  font-family: system-ui;
+}
+
+input, textarea {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  color: white;
+  padding: 8px;
+  width: 100%;
+}
